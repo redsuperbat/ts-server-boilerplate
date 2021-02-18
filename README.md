@@ -1,7 +1,7 @@
-# Server boilerplate for a typescript node server
+# Express server boilerplate for a typescript node server
 
 ## Setup
 
-clone repo
-run npm install in root folder
-good to go!
+- clone repo with `git clone *reponame*`
+- run `npm install` in root folder
+- Enjoy your typescript express server boilerplate.
